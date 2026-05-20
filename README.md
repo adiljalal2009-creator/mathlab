@@ -2,7 +2,10 @@
 
 > Student Math Toolkit Platform — original calculators, step-by-step CAS, programmatic SEO.
 
-Built with **Next.js 15 (App Router, RSC)**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**.
+**Author:** [Adil Jalal](https://github.com/adiljalal2009-creator) · Web Developer
+**Repo:** https://github.com/adiljalal2009-creator/mathlab
+
+Built with **Next.js 15 (App Router, RSC)**, **TypeScript**, **Tailwind CSS v4**, **React 19**.
 
 ## Quick start
 
@@ -20,7 +23,7 @@ Open http://localhost:3000.
 | Framework | Next.js 15 (App Router) |
 | Language | TypeScript (strict) |
 | Styling | Tailwind CSS v4 + shadcn/ui |
-| Math (symbolic) | algebrite, nerdamer |
+| Math (symbolic) | algebrite, nerdamer (planned) |
 | Math (numeric) | mathjs, decimal.js, ml-matrix |
 | Rendering | KaTeX |
 | State | Zustand + URL state |
@@ -59,4 +62,4 @@ Auto-deploys to Vercel on push to `main`. Preview deploys per PR.
 
 ## License
 
-MIT — see `LICENSE`.
+MIT © 2026 **Adil Jalal** — see `LICENSE`.
