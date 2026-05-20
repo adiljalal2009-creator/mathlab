@@ -1,11 +1,28 @@
-# Privacy
+# Privacy Policy — MathLab
 
-See `app/privacy/page.tsx` for the user-facing version.
+**Owner:** Adil Jalal
+**Last updated:** 2026-05-20
 
-## Internal notes
-- Cookieless analytics (Plausible).
-- No PII collected for anonymous users.
-- Accounts (Phase 2): email only, hashed sessions via Auth.js.
-- Data residency: Supabase EU region for EU users; US for others.
-- Retention: anonymous logs 30 days; account data until deletion request.
-- Subprocessors: Vercel, Supabase, Upstash, Cloudflare, Sentry, Plausible, Resend.
+MathLab, built by **Adil Jalal**, is privacy-respecting by design.
+
+## What we collect
+
+- **Nothing personal by default.** Calculator inputs stay in your browser.
+- **Cookieless analytics** (Plausible) — aggregate page views, no cross-site tracking, no fingerprinting.
+- **Error reports** (Sentry) — only when you opt-in or trigger an error; PII scrubbed.
+
+## Accounts (when introduced)
+
+- Email + name (optional).
+- Saved work is encrypted at rest.
+- You can export and delete all your data at any time.
+
+## Children (COPPA)
+
+MathLab is suitable for students 13+. We do not knowingly collect personal
+information from children under 13. If you believe we have, contact
+https://github.com/adiljalal2009-creator/mathlab/issues for immediate removal.
+
+## Contact
+
+Adil Jalal — https://github.com/adiljalal2009-creator
