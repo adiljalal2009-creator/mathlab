@@ -2,6 +2,20 @@
   "name": "mathlab",
   "version": "0.1.0",
   "private": true,
+  "description": "MathLab \u2014 Student Math Toolkit Platform. Original calculators, step-by-step CAS, programmatic SEO.",
+  "author": {
+    "name": "Adil Jalal",
+    "url": "https://github.com/adiljalal2009-creator"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/adiljalal2009-creator/mathlab",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adiljalal2009-creator/mathlab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adiljalal2009-creator/mathlab/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
