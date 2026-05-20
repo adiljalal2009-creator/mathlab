@@ -1,19 +1,33 @@
-# Legal & Copyright Safety
+# Legal — MathLab
 
-## Hard NOs
-- ❌ No TI / Casio / HP calculator ROMs or emulators.
-- ❌ No "TI-84", "Casio fx", or similar protected marks in domain, branding, or marketing copy that implies affiliation.
-- ❌ No calculator skins, key layouts, fonts, or sounds traceable to a specific brand.
-- ❌ No scraping of textbook problems verbatim.
+**Owner / Author:** Adil Jalal — Web Developer
+**GitHub:** https://github.com/adiljalal2009-creator
+**Project:** https://github.com/adiljalal2009-creator/mathlab
+**License:** MIT (see `LICENSE`)
+**Copyright:** © 2026 Adil Jalal. All rights reserved (except as granted by the MIT license).
 
-## Safer alternatives
-- ✅ Original keypad UI with generic mathematical labels (sin, cos, ln, x², ▲).
-- ✅ Only permissively licensed libraries (MIT/Apache/BSD). See `THIRD_PARTY_NOTICES.md`.
-- ✅ Original editorial content; no AI-spam at scale.
-- ✅ Nominative fair use allowed (e.g., "alternative to Symbolab") with clear disclaimers and no logos.
-- ✅ Privacy: GDPR / CCPA / COPPA compliant. Anonymous usage allowed.
-- ✅ DMCA agent registered.
+## Hard NO list
 
-## Trademark
-- Brand: **MathLab** (working name; verify USPTO TESS and EUIPO before launch).
-- Register .com and .io if available.
+MathLab is an **original** product. We do **not** ship, embed, mirror, link to, or
+reverse-engineer:
+
+- Texas Instruments (TI-84, TI-Nspire, etc.) ROMs, emulators, fonts, logos, or UI.
+- Casio (fx-9750GIII, ClassWiz, etc.) ROMs, emulators, fonts, logos, or UI.
+- HP (Prime, 50g, etc.) ROMs, emulators, fonts, logos, or UI.
+- Desmos UI, logos, or proprietary assets.
+- Any trademark, ROM, font, or copyrighted UI from a calculator manufacturer.
+
+All calculator engines, parsers, step generators, UI components, icons, and
+illustrations are written from scratch or use clearly-licensed open-source
+dependencies listed in `THIRD_PARTY_NOTICES.md`.
+
+## Trademarks
+
+"MathLab" is the project name used by Adil Jalal. Third-party names (TI, Casio,
+HP, Desmos, etc.) are trademarks of their respective owners and are used only
+for nominative reference where unavoidable.
+
+## Contact
+
+For legal questions or DMCA notices, open an issue at
+https://github.com/adiljalal2009-creator/mathlab/issues
