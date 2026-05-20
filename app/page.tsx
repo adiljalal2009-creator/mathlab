@@ -11,6 +11,9 @@ export default function HomePage() {
         <p className="mt-4 text-lg text-neutral-600 dark:text-neutral-300">
           Free, fast, modern math tools — with step-by-step explanations.
         </p>
+        <p className="mt-2 text-sm text-neutral-500">
+          Built by <a href="https://github.com/adiljalal2009-creator" className="font-medium hover:underline">Adil Jalal</a>
+        </p>
       </section>
 
       <section className="mt-16">
